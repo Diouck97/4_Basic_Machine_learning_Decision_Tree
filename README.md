@@ -1,0 +1,4 @@
+- This repository contains the python codes that I have created to get my first impressions on Machine learning with decision Trees.
+- The data used to train the model is included in this repository (train.csv). It contains data about homes in Iowa, United States
+- The goal is to make home sales price predictions
+- We we run the code, it chooses between a range of decision tree size and chooses the best tree size. We then fit the model to train the model.
